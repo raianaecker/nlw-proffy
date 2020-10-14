@@ -8,7 +8,7 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, c
 ## Prévia 
 
 <p align="center">
-  <img src="https://i.imgur.com/8Z7vJ47.jpg" width="700" >
+  <img src="https://i.postimg.cc/vY25GB7j/proffy1.png" >
 </p>
 
 ---
