@@ -24,4 +24,4 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, c
 
 ---
 
-Desenvolvido por Raiana Ecker
+Desenvolvido por Raiana Ecker ❤
